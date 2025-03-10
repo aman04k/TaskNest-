@@ -60,6 +60,7 @@ const TodoItem = ({ todo, onUpdate, onDelete }) => {
         >
           {todo.task}
         </span>
+        
       )}
 
       <div className="d-flex gap-2">
